@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<WSReference uuid="bae65974-c09a-4029-885f-06f5e87aa94e">
+		<InternalInfo>
+			<xr:GeneratedType name="WSReferenceManager.IkarServicePilot" category="Manager">
+				<xr:TypeId>3ba84f5d-0f8b-4867-b37d-638d7e4d5e32</xr:TypeId>
+				<xr:ValueId>5d2b3cf7-2938-4f9d-8a45-34fe123368c8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>IkarServicePilot</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ikar service pilot</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<LocationURL>http://api.vetrf.ru/schema/platform/ikar/services/IkarService_v1.4_pilot.wsdl</LocationURL>
+		</Properties>
+	</WSReference>
+</MetaDataObject>

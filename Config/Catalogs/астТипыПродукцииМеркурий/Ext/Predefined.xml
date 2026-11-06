@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="d6fc62fe-32f1-493a-8b34-21d7619fd0bf">
+		<Name>ЖивыеЖивотные</Name>
+		<Code xsi:type="xs:decimal">3</Code>
+		<Description>Живые животные</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="af89ab20-8e0c-4136-824c-466bc52872c0">
+		<Name>КормаИКормовыеДобавки</Name>
+		<Code xsi:type="xs:decimal">2</Code>
+		<Description>Корма и кормовые добавки</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="74db19ac-35cf-40be-83d2-f9898f29db2a">
+		<Name>ЛекарственныеСредства</Name>
+		<Code xsi:type="xs:decimal">4</Code>
+		<Description>Лекарственные средства</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="d28b038a-f4ea-46e0-b21b-3e248732a902">
+		<Name>МясоИМясопродукты</Name>
+		<Code xsi:type="xs:decimal">1</Code>
+		<Description>Мясо и мясопродукты</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="cbbe9f4d-3804-4b6a-a71b-9eb8d6309955">
+		<Name>НепищевыеПродуктыИДругое</Name>
+		<Code xsi:type="xs:decimal">6</Code>
+		<Description>Непищевые продукты и другое</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="3619bea9-5330-4372-ae94-d8fd707597ba">
+		<Name>ПищевыеПродукты</Name>
+		<Code xsi:type="xs:decimal">5</Code>
+		<Description>Пищевые продукты</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a9e39244-11f1-4aed-ac65-98274c3452e8">
+		<Name>ПродукцияНеТребующаяРазрешения</Name>
+		<Code xsi:type="xs:decimal">8</Code>
+		<Description>Продукция, не требующая разрешения</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a2abaf67-d966-415e-8a29-d001d27a1670">
+		<Name>РыбаИМорепродукты</Name>
+		<Code xsi:type="xs:decimal">7</Code>
+		<Description>Рыба и морепродукты</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
