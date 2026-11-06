@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
-	<Item id="8c14f9b0-5fb4-4c09-985a-f75e7bc03d17">
-		<Name>МестностьБлагополучна</Name>
-		<Code>000000001</Code>
-		<Description>местность благополучна</Description>
-		<IsFolder>false</IsFolder>
-	</Item>
-</PredefinedData>
